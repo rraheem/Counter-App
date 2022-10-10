@@ -1,0 +1,42 @@
+body{
+    background-image: url("img_the_scream.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+img{
+    opacity: 0.5;
+}
+
+div{
+    width: 50%;
+    border: 40%;
+}
+button{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+}
+
+#red{
+    background: rgb(97, 3, 3);
+}
+
+#green{
+    background: rgb(3, 97, 19);
+
+}
+
+#black{
+    background: black;
+}
+
